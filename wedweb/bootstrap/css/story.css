@@ -1,0 +1,28 @@
+.container-fluid section{
+    text-align: center;
+    font-family: Pacifico,cursive;
+    
+  
+}
+.container-fluid section p{
+    text-align: center;
+    
+}
+
+.icon{
+    max-width: 250px;
+    margin: 0 auto;
+    display: block;
+}
+.ring section{
+    text-align: center;
+}
+.santo section{
+    text-align: center;
+}
+
+.content{
+    padding-top: 50px;
+    padding-left: 350px;
+    text-align: center;
+}
